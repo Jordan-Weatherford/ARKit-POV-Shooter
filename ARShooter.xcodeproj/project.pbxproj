@@ -13,6 +13,7 @@
 		172C9B2C1F46323E00AF6AE6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172C9B2A1F46323E00AF6AE6 /* Main.storyboard */; };
 		172C9B2E1F46323E00AF6AE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 172C9B2D1F46323E00AF6AE6 /* Assets.xcassets */; };
 		172C9B311F46323E00AF6AE6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172C9B2F1F46323E00AF6AE6 /* LaunchScreen.storyboard */; };
+		17D05CA51F48BC150081BBCE /* target.scn in Resources */ = {isa = PBXBuildFile; fileRef = 17D05CA41F48BC140081BBCE /* target.scn */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		172C9B2D1F46323E00AF6AE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		172C9B301F46323E00AF6AE6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		172C9B321F46323E00AF6AE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17D05CA41F48BC140081BBCE /* target.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = target.scn; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				172C9B241F46323E00AF6AE6 /* AppDelegate.swift */,
 				172C9B261F46323E00AF6AE6 /* art.scnassets */,
 				172C9B281F46323E00AF6AE6 /* ViewController.swift */,
+				17D05CA41F48BC140081BBCE /* target.scn */,
 				172C9B2A1F46323E00AF6AE6 /* Main.storyboard */,
 				172C9B2D1F46323E00AF6AE6 /* Assets.xcassets */,
 				172C9B2F1F46323E00AF6AE6 /* LaunchScreen.storyboard */,
@@ -129,6 +132,7 @@
 				172C9B311F46323E00AF6AE6 /* LaunchScreen.storyboard in Resources */,
 				172C9B2E1F46323E00AF6AE6 /* Assets.xcassets in Resources */,
 				172C9B2C1F46323E00AF6AE6 /* Main.storyboard in Resources */,
+				17D05CA51F48BC150081BBCE /* target.scn in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,6 +320,7 @@
 				172C9B371F46323E00AF6AE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
